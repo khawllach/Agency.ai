@@ -4,7 +4,7 @@
 turning imagination into digital 
  Creating meaningful connections and turning big ideas into interactive digital experiences.
 
- 🔗 Live site: agencyai-eta.vercel.app
+ 🔗 Live site: [agencyai-eta.vercel.app](https://agencyai-git-main-chkhawla25-5277s-projects.vercel.app/)
 ## 🖼️ Preview
 
 <img width="1255" height="613" alt="home" src="https://github.com/user-attachments/assets/727186c5-8922-4e31-b739-d9b969b1e083" />
