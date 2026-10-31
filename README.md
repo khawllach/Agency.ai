@@ -1,9 +1,8 @@
 ## 📖 About
 
 **Agency.ai** is a front-end web application built with the latest React and Vite tooling. It focuses on a clean UI, fast load times and a smooth developer experience, with Tailwind CSS for styling and a rich icon set from Lucide and React Icons.
-We ensure better education for a better world
-Our cutting-edge curiccilum is designed to empower students with the knowledge ,skills,and experiences needed to excel in the dynamic field of education
-
+turning imagination into digital 
+ Creating meaningful connections and turning big ideas into interactive digital experiences.
 ## 🖼️ Preview
 
 <img width="1255" height="613" alt="home" src="https://github.com/user-attachments/assets/727186c5-8922-4e31-b739-d9b969b1e083" />
