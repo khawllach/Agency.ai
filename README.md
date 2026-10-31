@@ -39,7 +39,7 @@ Linting	      ESLint with react-hooks and react-refresh plugins
 Agency.ai/
 ├── public/             # Static assets (favicon, images, etc.)
 ├── src/                # Application source code
-│   └── assets.jsx
+│   └── assets
     └── components.jsx       # React entry point
          └──Contact.jsx
          └──Footer.jsx
@@ -48,7 +48,10 @@ Agency.ai/
          └──Howwork.jsx
          └──Navbar.jsx
          └──Team.jsx
-├── index.html          # HTML template
+├──App.jsx
+├──App.css
+├──index.css
+├──main.jsx
 ├── vite.config.js      # Vite configuration
 ├── eslint.config.js    # ESLint configuration
 └── package.json        # Dependencies and scripts
